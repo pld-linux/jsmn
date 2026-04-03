@@ -1,7 +1,7 @@
 Summary:	Minimalistic JSON parser library in C
 Name:		jsmn
 Version:	0.0.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 URL:		http://zserge.com/jsmn.html
